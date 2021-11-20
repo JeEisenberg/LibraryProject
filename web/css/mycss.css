@@ -1,0 +1,48 @@
+
+h1 {
+    text-align: center;
+}
+
+.T {
+    width: 560px;
+    height: 330px;
+
+    border: black solid;
+    font-family: 微软雅黑;
+    font-size: 20px;
+    position: relative;
+    margin-top: 100px;
+
+}
+
+#pwd {
+    width: 300px;
+    height: 40px;
+}
+#userN {
+    width: 300px;
+    height: 40px;
+}
+.login {
+    width: 100px;
+    height: 40px;
+    position: relative;
+    left: 160px;
+}
+
+.logined {
+    width: 100px;
+    height: 40px;
+    position: relative;
+    left: 220px;
+}
+.pwdCheck{
+position: relative;
+
+
+}
+.userCheck{
+    position: relative;
+
+
+}
